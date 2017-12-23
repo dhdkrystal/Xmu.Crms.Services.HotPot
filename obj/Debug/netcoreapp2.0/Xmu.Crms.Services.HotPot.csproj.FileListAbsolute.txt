@@ -1,0 +1,4 @@
+C:\Users\dhd\git\Xmu.Crms.HotPot\Xmu.Crms.Services.HotPot\obj\Debug\netcoreapp2.0\Xmu.Crms.Services.HotPot.csprojResolveAssemblyReference.cache
+C:\Users\dhd\git\Xmu.Crms.HotPot\Xmu.Crms.Services.HotPot\obj\Debug\netcoreapp2.0\Xmu.Crms.Services.HotPot.csproj.CoreCompileInputs.cache
+C:\Users\dhd\git\Xmu.Crms.HotPot\Xmu.Crms.Services.HotPot\obj\Debug\netcoreapp2.0\Xmu.Crms.Services.HotPot.AssemblyInfoInputs.cache
+C:\Users\dhd\git\Xmu.Crms.HotPot\Xmu.Crms.Services.HotPot\obj\Debug\netcoreapp2.0\Xmu.Crms.Services.HotPot.AssemblyInfo.cs
