@@ -2,3 +2,10 @@ C:\Users\dhd\git\Xmu.Crms.HotPot\Xmu.Crms.Services.HotPot\obj\Debug\netcoreapp2.
 C:\Users\dhd\git\Xmu.Crms.HotPot\Xmu.Crms.Services.HotPot\obj\Debug\netcoreapp2.0\Xmu.Crms.Services.HotPot.csproj.CoreCompileInputs.cache
 C:\Users\dhd\git\Xmu.Crms.HotPot\Xmu.Crms.Services.HotPot\obj\Debug\netcoreapp2.0\Xmu.Crms.Services.HotPot.AssemblyInfoInputs.cache
 C:\Users\dhd\git\Xmu.Crms.HotPot\Xmu.Crms.Services.HotPot\obj\Debug\netcoreapp2.0\Xmu.Crms.Services.HotPot.AssemblyInfo.cs
+C:\Users\dhd\git\Xmu.Crms.HotPot\Xmu.Crms.Services.HotPot\bin\Debug\netcoreapp2.0\Xmu.Crms.Services.HotPot.deps.json
+C:\Users\dhd\git\Xmu.Crms.HotPot\Xmu.Crms.Services.HotPot\bin\Debug\netcoreapp2.0\Xmu.Crms.Services.HotPot.dll
+C:\Users\dhd\git\Xmu.Crms.HotPot\Xmu.Crms.Services.HotPot\bin\Debug\netcoreapp2.0\Xmu.Crms.Services.HotPot.pdb
+C:\Users\dhd\git\Xmu.Crms.HotPot\Xmu.Crms.Services.HotPot\bin\Debug\netcoreapp2.0\Xmu.Crms.Shared.dll
+C:\Users\dhd\git\Xmu.Crms.HotPot\Xmu.Crms.Services.HotPot\bin\Debug\netcoreapp2.0\Xmu.Crms.Shared.pdb
+C:\Users\dhd\git\Xmu.Crms.HotPot\Xmu.Crms.Services.HotPot\obj\Debug\netcoreapp2.0\Xmu.Crms.Services.HotPot.dll
+C:\Users\dhd\git\Xmu.Crms.HotPot\Xmu.Crms.Services.HotPot\obj\Debug\netcoreapp2.0\Xmu.Crms.Services.HotPot.pdb

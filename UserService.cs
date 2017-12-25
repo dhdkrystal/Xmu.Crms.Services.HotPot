@@ -11,7 +11,7 @@ using Xmu.Crms.Shared.Service;
 namespace Xmu.Crms.Services.HotPot
 
 {
-
+    /*
     public class UserService : IUserService
 
     {
@@ -171,5 +171,6 @@ namespace Xmu.Crms.Services.HotPot
         }
 
     }
+    */
 
 }
